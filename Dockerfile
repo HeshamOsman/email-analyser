@@ -1,4 +1,4 @@
-FROM maven:3.6.3-openjdk-11
+FROM maven:3.6.3-openjdk-15
 LABEL maintainer="hesham.osman28@gmail.com"
 
 ADD . ~/emailanalyser
