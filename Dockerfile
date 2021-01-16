@@ -12,4 +12,4 @@ RUN mvn package
 WORKDIR ./target
 
 
-CMD exec java -jar emailanalyser-0.0.1-SNAPSHOT.jar
+CMD exec java -jar email-analyzer-0.0.1-SNAPSHOT.jar
